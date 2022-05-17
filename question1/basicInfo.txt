@@ -1,0 +1,16 @@
+# ------- # 
+Basic Information about the System
+# ------- #
+Total number of users is
+44
+---------
+Total number of users that can log in is
+2
+---------
+Memory information
+               total        used        free      shared  buff/cache   available
+Mem:        16120304     4436344     7155048      701292     4528912    10644092
+Swap:        4193784           0     4193784
+---------
+Basic information about system
+Linux pop-os 5.17.5-76051705-generic #202204271406~1651504840~22.04~63e51bd SMP PREEMPT Mon May 2 15: x86_64 x86_64 x86_64 GNU/Linux
